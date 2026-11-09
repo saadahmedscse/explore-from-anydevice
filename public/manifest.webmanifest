@@ -1,0 +1,10 @@
+{
+  "name": "Explorer Share",
+  "short_name": "Explorer",
+  "description": "Every device's files in one explorer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0F0E",
+  "theme_color": "#0F0F0E",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
